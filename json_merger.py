@@ -54,5 +54,3 @@ if __name__ == "__main__":
     output_file = sys.argv[3]
     
     merge_json_files(first_json_file, second_json_file, output_file)
-
-Version 2 of 2
